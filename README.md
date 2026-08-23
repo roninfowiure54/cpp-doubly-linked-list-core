@@ -7,3 +7,6 @@ Compile: `g++ src/list.cpp -o list`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by alibasit-lgtm4.*
