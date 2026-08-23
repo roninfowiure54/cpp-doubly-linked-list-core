@@ -10,3 +10,6 @@ Compile: `g++ src/list.cpp -o list`
 
 ---
 *Released under the MIT License by alibasit-lgtm4.*
+
+---
+*Released under the MIT License by AlexanderAM1231.*
